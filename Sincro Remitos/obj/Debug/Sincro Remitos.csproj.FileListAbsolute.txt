@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\bin\Debug\Sincro Remitos.exe.config
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\bin\Debug\Sincro Remitos.exe
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\bin\Debug\Sincro Remitos.pdb
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro_Remitos.ProjectInstaller.resources
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.csproj.CopyComplete
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.exe
+C:\Users\lucas\Desktop\Sinc\Sincro Remitos\Sincro Remitos\obj\Debug\Sincro Remitos.pdb

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sincro Remitos", "Sincro Remitos\Sincro Remitos.csproj", "{3766DDA1-AFE2-4F0C-9503-FC3161DEC7E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consola", "Consola\Consola.csproj", "{B961FBA1-1A5C-4941-A847-C9EEF47AB54F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{2C457412-9E02-4285-A64C-CB01ED831A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3766DDA1-AFE2-4F0C-9503-FC3161DEC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3766DDA1-AFE2-4F0C-9503-FC3161DEC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3766DDA1-AFE2-4F0C-9503-FC3161DEC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3766DDA1-AFE2-4F0C-9503-FC3161DEC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B961FBA1-1A5C-4941-A847-C9EEF47AB54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B961FBA1-1A5C-4941-A847-C9EEF47AB54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B961FBA1-1A5C-4941-A847-C9EEF47AB54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B961FBA1-1A5C-4941-A847-C9EEF47AB54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C457412-9E02-4285-A64C-CB01ED831A0E}.Debug|Any CPU.ActiveCfg = Debug
+		{2C457412-9E02-4285-A64C-CB01ED831A0E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1245FD-B043-4A5A-93C7-33E6AFD8DE8E}
+	EndGlobalSection
+EndGlobal
